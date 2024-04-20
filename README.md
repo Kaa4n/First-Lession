@@ -18,6 +18,7 @@
   <img align="center" alt="Kau-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 
+
     Salve amigos, esse é um repositório meramente educacional, para fins de estudo.
     Vou citar algumas coisas que eu gosto {
         gosto de gatos
