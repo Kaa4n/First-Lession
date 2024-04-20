@@ -10,13 +10,13 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=Kaa4n&show_icons=true" />
 </picture>
+  <img align="right" alt="Kau-gif" src="https://media.discordapp.net/attachments/889664857564151818/1231271960047124491/gifmaker_me_3.gif?ex=66365a5f&is=6623e55f&hm=934acaccbf291582858010a22c68ab2e83fb619ec8eda36bf81d543d56c1c9c0&="
 <div style="display: inline_block"><br>
   <img align="center" alt="Kau-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Kau-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Kau-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Kau-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Kau-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="right" alt="Kau-gif" src="https://media.discordapp.net/attachments/889664857564151818/1231271960047124491/gifmaker_me_3.gif?ex=66365a5f&is=6623e55f&hm=934acaccbf291582858010a22c68ab2e83fb619ec8eda36bf81d543d56c1c9c0&="
 </div>
 
 ##
