@@ -16,6 +16,7 @@
   <img align="center" alt="Kau-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Kau-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Kau-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="right" alt="Kau-gif" src="https://media.discordapp.net/attachments/889664857564151818/1231270457345314948/gifmaker_me.gif?ex=66253578&is=6623e3f8&hm=f528d7f677563cc636d9a27694343f63693bfa264a5e215b61454d89e942d496&="
 </div>
 
 ##
