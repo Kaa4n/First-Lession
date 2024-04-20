@@ -1,5 +1,15 @@
-# First Lession
- Primeiros passos
+## Olá! Eu sou o Kauan
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Kaa4n&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Kaa4n&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaa4n&show_icons=true" />
+</picture>
  
     Salve amigos, esse é um repositório meramente educacional, para fins de estudo.
     Vou citar algumas coisas que eu gosto {
