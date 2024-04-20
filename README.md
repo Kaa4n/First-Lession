@@ -26,7 +26,7 @@
                 print('É bom repensar o seus gostos')
             else:
                 print('Gosto desse também')
-            while(CheiroBom):
+        while(CheiroBom):
             return print('que cheiro gostoso guys')
 
     }
