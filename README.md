@@ -10,7 +10,12 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=Kaa4n&show_icons=true" />
 </picture>
- 
+ <a href="https://github.com/Kaa4n/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kaa4n&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/Kaa4n/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kaa4n&repo=convoychat" />
+</a>
     Salve amigos, esse é um repositório meramente educacional, para fins de estudo.
     Vou citar algumas coisas que eu gosto {
         gosto de gatos
