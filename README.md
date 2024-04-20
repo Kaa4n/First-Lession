@@ -9,8 +9,8 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=Kaa4n&show_icons=true" />
+    <img align="right" alt="Kau-gif" src="https://media.discordapp.net/attachments/889664857564151818/1231271960047124491/gifmaker_me_3.gif?ex=66365a5f&is=6623e55f&hm=934acaccbf291582858010a22c68ab2e83fb619ec8eda36bf81d543d56c1c9c0&="
 </picture>
-  <img align="right" alt="Kau-gif" src="https://media.discordapp.net/attachments/889664857564151818/1231271960047124491/gifmaker_me_3.gif?ex=66365a5f&is=6623e55f&hm=934acaccbf291582858010a22c68ab2e83fb619ec8eda36bf81d543d56c1c9c0&="
 <div style="display: inline_block"><br>
   <img align="center" alt="Kau-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Kau-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
