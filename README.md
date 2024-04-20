@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Kauan
 
 <div>
-  <img align="right" alt="Kau-profile" src="https://media.discordapp.net/attachments/889664857564151818/1231271960047124491/gifmaker_me_3.gif?ex=66365a5f&is=6623e55f&hm=934acaccbf291582858010a22c68ab2e83fb619ec8eda36bf81d543d56c1c9c0&="
+  <img align="right" alt="Kau-profile" src="https://media.discordapp.net/attachments/889664857564151818/1231273952261963987/gifmaker_me_4.gif?ex=66365c3a&is=6623e73a&hm=cb6d10ceef4097f60cc172020e7969b7cfbc675ab5b87dd03e9cc79dbd74f647&="
 </div>
 <picture>
   <source
